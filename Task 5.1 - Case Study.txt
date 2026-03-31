@@ -1,0 +1,10 @@
+CASE STUDY: 
+UPI FRAUD
+
+UPI fraud is one of the most common cybercrimes that affect students in India today. In this type of fraud, scammers try to trick people into sharing important information or approving fake payment requests.
+
+Usually, the scam starts with a phone call, message, or sometimes even a link. The person may pretend to be from a bank, customer support, or a service provider. They might ask the user to click on a link or approve a payment request on their phone. If the user approves it without checking properly, money can be deducted from their bank account.
+
+Students are often targeted in these scams because many of them have recently started using digital payment apps and may not know about these tricks. When this happens, it can lead to financial loss and also cause stress or panic for the person.
+
+This case study shows why it is very important to be careful while using online payment systems. We should always check payment requests properly and never trust unknown calls or links related to money. Being aware and alert can help prevent such frauds.
