@@ -1,5 +1,9 @@
-In this task, I explored different coding and collaboration platforms. I completed a beginner-level coding challenge, which helped me understand basic problem-solving and improve my logical thinking skills.
+For this task, I created profiles on GitHub, LinkedIn, and Stack Overflow to build my digital presence.
 
-I also created a Google Form quiz on digital literacy awareness. While making the quiz, I learned how to collect responses and view them in Google Sheets, which made it easier to understand and analyze the data.
+GitHub is used to showcase my projects and coding work, which will help me build a strong technical portfolio over time. LinkedIn is a professional networking platform where I can connect with other students, seniors, and industry professionals, as well as explore internship opportunities.
 
-Through this task, I realized how useful these platforms can be during my academic journey. Coding platforms will help me practice and improve my programming skills, and tools like Google Forms can be helpful for surveys, projects, and working with others.
+Stack Overflow is a platform where programmers ask and answer technical questions. It helps in solving coding doubts and learning from real-world problems. By using Stack Overflow, I can improve my problem-solving skills and also help others by answering questions in the future.
+
+Creating these profiles made me realize the importance of maintaining a clean and professional online identity. Over the next four years, I plan to regularly update my GitHub with projects, stay active on LinkedIn, and use Stack Overflow to improve my technical knowledge.
+
+This task helped me take the first step toward building a strong digital portfolio for my academic and professional growth.
