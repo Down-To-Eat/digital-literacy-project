@@ -1,0 +1,21 @@
+CASE STUDY: 
+UPI FRAUD
+
+UPI fraud is one of the most common cybercrimes that affect students in India today. In this type of fraud, scammers try to trick people into sharing important information or approving fake payment requests.
+
+Usually, the scam starts with a phone call, message, or sometimes even a link. The person may pretend to be from a bank, customer support, or a service provider. They might ask the user to click on a link or approve a payment request on their phone. If the user approves it without checking properly, money can be deducted from their bank account.
+
+Students are often targeted in these scams because many of them have recently started using digital payment apps and may not know about these tricks. When this happens, it can lead to financial loss and also cause stress or panic for the person.
+
+This case study shows why it is very important to be careful while using online payment systems. We should always check payment requests properly and never trust unknown calls or links related to money. Being aware and alert can help prevent such frauds.
+
+In a real incident reported in Bhopal, a retired man was cheated of around ₹1.45 lakh by a fraudster who pretended to be someone he knew. The scammer called the victim from an unknown number and spoke in a friendly and familiar manner to gain his trust. This technique is known as social engineering, where the attacker manipulates the victim emotionally.
+
+During the call, the fraudster convinced the victim to follow certain instructions related to UPI transactions. The victim, believing the caller to be genuine, approved the payment requests and unknowingly transferred money. The scammer used urgency and trust to make sure the victim did not think carefully before acting.
+
+Such scams usually target students, elderly people, and individuals who are not fully aware of digital payment systems. The consequences include financial loss, stress, and loss of confidence in online transactions.
+
+This case clearly shows that even educated individuals can fall victim if they are not careful. It highlights the importance of verifying every request, avoiding unknown calls, and never sharing sensitive information.
+
+Source: Times of India – Bhopal Cyber Fraud Case
+https://timesofindia.indiatimes.com/city/bhopal/retd-bhel-staff-duped-of-1l-by-con-posing-as-acquaintance/articleshow/129833568.cms?utm_source=chatgpt.com
