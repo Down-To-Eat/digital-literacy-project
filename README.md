@@ -102,3 +102,10 @@ Writing proper emails is an important skill for students.
 
 Good email communication creates a positive impression.
 
+##### 6\. Digital Literacy Quiz
+
+Test your understanding of digital literacy through this short quiz. It helps you learn about online safety, responsible internet use, and essential digital skills.
+
+Take the Quiz: https://docs.google.com/forms/d/e/1FAIpQLSfxqNmLKoZkTdhCQw09BcJT2NcFCfqcfON_OVe8CoDhfMJ3xg/viewform
+
+Boost your knowledge and stay digitally smart!
