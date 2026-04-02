@@ -1,0 +1,11 @@
+TASK 2: DIGITAL PORTFOLIO – SUMMARY
+
+In this task, I created my student digital portfolio by setting up accounts on GitHub, Kaggle, and Stack Overflow. These platforms are important for students to build their technical skills and create a strong online presence.
+
+On GitHub, I created my profile and learned how to upload and manage projects. It is a useful platform for showcasing coding work and building a portfolio. On Kaggle, I explored datasets and understood how it is used for practicing data science and improving analytical skills. On Stack Overflow, I created an account to ask questions and learn from answers shared by experienced programmers.
+
+While completing this task, I realized the importance of maintaining a clean and professional online identity. These platforms not only help in learning but also play an important role in future opportunities like internships and placements.
+
+In the coming years, I plan to regularly upload my projects on GitHub, practice more problems on Kaggle, and use Stack Overflow to clear my doubts and learn from the developer community.
+
+Overall, this task helped me take my first step toward building a strong digital portfolio that will support my academic growth and future career.
