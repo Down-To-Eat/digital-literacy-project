@@ -154,8 +154,9 @@ This task made me more aware of online threats and taught me how to protect my p
 
 
 
-* Project Repository: https://github.com/Down-To-Eat/digital-literacy-project.git
-* Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSfxqNmLKoZkTdhCQw09BcJT2NcFCfqcfON\_OVe8CoDhfMJ3xg/viewform  
+Project Repository: https://github.com/Down-To-Eat/digital-literacy-project.git
+
+Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSfxqNmLKoZkTdhCQw09BcJT2NcFCfqcfON\_OVe8CoDhfMJ3xg/viewform
 
 
 
