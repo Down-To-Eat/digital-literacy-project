@@ -1,0 +1,15 @@
+TASK 3: PLATFORMS & COLLABORATION – SUMMARY
+
+In this task, I explored both coding and collaboration platforms to understand how they are used in academic and practical work.
+
+For the coding part, I created an account on HackerRank and completed a beginner-level problem called “Solve Me First.” In this problem, I was required to take two numbers as input and print their sum. This helped me understand the basic structure of a coding problem, including input, processing, and output. It also gave me confidence to start practicing more coding problems in the future.
+
+For the collaboration part, I created a Google Form titled “Digital Literacy Awareness Quiz.” The form contained five questions related to digital literacy, online safety, and professional communication. I included both multiple-choice and short-answer questions. After creating the form, I checked the responses in Google Sheets, which helped me understand how data is collected and managed.
+
+This task helped me learn how to use online platforms effectively for both learning and collaboration. Coding platforms like HackerRank will help me improve my programming skills, while tools like Google Forms will be useful for surveys, quizzes, and academic projects.
+
+Overall, this task improved my technical understanding and showed me how digital tools can be used in real-life situations.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSfxqNmLKoZkTdhCQw09BcJT2NcFCfqcfON_OVe8CoDhfMJ3xg/viewform
