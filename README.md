@@ -46,7 +46,7 @@ The main objective of this project is to help students become confident, respons
 
 
 
-In this task, I created an infographic titled “Digital Survival Kit for Freshers” using PowerPoint presentation. The infographic presents important information such as the meaning of digital literacy, commonly used digital tools like GitHub, Kaggle, and Stack Overflow, safe internet practices, and email etiquette.
+In this task, I created an infographic titled “Digital Survival Kit for Freshers” using PowerPoint presentation. The infographic presents important information such as what is the meaning of digital literacy, what are safe internet practices and how to maintain professional online presence.
 
 
 
@@ -156,7 +156,7 @@ This task made me more aware of online threats and taught me how to protect my p
 
 Project Repository: https://github.com/Down-To-Eat/digital-literacy-project.git
 
-Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSfxqNmLKoZkTdhCQw09BcJT2NcFCfqcfON\_OVe8CoDhfMJ3xg/viewform?usp=dialog
+Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSfxqNmLKoZkTdhCQw09BcJT2NcFCfqcfON\_OVe8CoDhfMJ3xg/viewform
 
 
 
